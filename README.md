@@ -6,6 +6,7 @@ A collection of well-documented LeetCode solutions focusing on optimized time an
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/madandas01/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/madandas01/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/madandas01/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/madandas01/LeetCode-Solution/tree/master/1518-water-bottles) |
@@ -34,5 +35,10 @@ A collection of well-documented LeetCode solutions focusing on optimized time an
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/madandas01/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/madandas01/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/madandas01/LeetCode-Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
